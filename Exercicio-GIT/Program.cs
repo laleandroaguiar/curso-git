@@ -11,6 +11,8 @@ namespace Exercicio_GIT {
 
             Console.WriteLine("C#");
 
+            Console.WriteLine("Teste de atualização no git e github");
+
             for (int i = 0; i < 30; i ++) {
                 Console.WriteLine("oi");
 
