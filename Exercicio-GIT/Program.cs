@@ -1,8 +1,11 @@
 ﻿using System;
 
-namespace Exercicio_GIT {
-    class Program {
-        static void Main(string[] args) {
+namespace Exercicio_GIT
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
             Console.WriteLine("=========================================");
             Console.WriteLine("Hello World!");
             Console.WriteLine("VIDA DE PROGRAMADOR");
@@ -17,13 +20,14 @@ namespace Exercicio_GIT {
 
             Console.WriteLine("Novo teste de atualização");
 
-            for (int i = 0; i < 30; i ++) {
+            for (int i = 0; i < 30; i++)
+            {
                 Console.WriteLine("oi");
 
             }
-            
 
-            
+
+
 
         }
     }
