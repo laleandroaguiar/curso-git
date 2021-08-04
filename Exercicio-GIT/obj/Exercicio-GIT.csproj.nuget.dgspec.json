@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\Documents\\UDEMY\\Curso-C#-Completo\\cap-8\\Exercicios\\Exercicio-GIT\\Exercicio-GIT\\Exercicio-GIT.csproj": {}
+    "C:\\Users\\ACER\\Desktop\\temp\\curso-git\\Exercicio-GIT\\Exercicio-GIT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\Documents\\UDEMY\\Curso-C#-Completo\\cap-8\\Exercicios\\Exercicio-GIT\\Exercicio-GIT\\Exercicio-GIT.csproj": {
+    "C:\\Users\\ACER\\Desktop\\temp\\curso-git\\Exercicio-GIT\\Exercicio-GIT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Documents\\UDEMY\\Curso-C#-Completo\\cap-8\\Exercicios\\Exercicio-GIT\\Exercicio-GIT\\Exercicio-GIT.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\temp\\curso-git\\Exercicio-GIT\\Exercicio-GIT.csproj",
         "projectName": "Exercicio-GIT",
-        "projectPath": "C:\\Users\\ACER\\Documents\\UDEMY\\Curso-C#-Completo\\cap-8\\Exercicios\\Exercicio-GIT\\Exercicio-GIT\\Exercicio-GIT.csproj",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\temp\\curso-git\\Exercicio-GIT\\Exercicio-GIT.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Documents\\UDEMY\\Curso-C#-Completo\\cap-8\\Exercicios\\Exercicio-GIT\\Exercicio-GIT\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Desktop\\temp\\curso-git\\Exercicio-GIT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
